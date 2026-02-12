@@ -30,4 +30,4 @@ The objective of this project was to build a fully interactive Sales Dashboard i
 •	Merge all pivot tables into one dashboard and apply slicer to make dynamic.
 
 ## Dashboard
-
+![image alt](https://github.com/the-shreya-khandare/Sales_Analytics_Dashboard/blob/b09d51f2c400e3134eaf6d48f40d4d89e3bfdc28/SalesDashboard.png)

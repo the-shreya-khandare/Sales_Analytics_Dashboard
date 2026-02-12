@@ -31,3 +31,12 @@ The objective of this project was to build a fully interactive Sales Dashboard i
 
 ## Dashboard
 ![image alt](https://github.com/the-shreya-khandare/Sales_Analytics_Dashboard/blob/b09d51f2c400e3134eaf6d48f40d4d89e3bfdc28/SalesDashboard.png)
+
+## Project Insight
+•	📈 Technology category shows the strongest profit growth from 2014–2017.
+•	📊 Phones and Chairs are top-performing sub-categories by sales.
+•	🗺 Sales are concentrated in key states such as California and Texas.
+•	👥 Top 5 customers contribute a significant portion of total profit.
+•	📅 Sales peak during Q4 (Months 9–12), indicating strong seasonality.
+•	📈 Customer count increases steadily each year, showing business expansion.
+

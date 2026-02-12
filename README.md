@@ -34,9 +34,16 @@ The objective of this project was to build a fully interactive Sales Dashboard i
 
 ## Project Insight
 •	📈 Technology category shows the strongest profit growth from 2014–2017.
+
 •	📊 Phones and Chairs are top-performing sub-categories by sales.
+
 •	🗺 Sales are concentrated in key states such as California and Texas.
+
 •	👥 Top 5 customers contribute a significant portion of total profit.
+
 •	📅 Sales peak during Q4 (Months 9–12), indicating strong seasonality.
+
 •	📈 Customer count increases steadily each year, showing business expansion.
 
+## Final Conclusion:
+This project is an interactive Sales Dashboard built in Excel, visualizing key business metrics like sales by category, profit trends over time, sales by state, top customers, and monthly sales performance. It provides actionable insights for decision-making and performance analysis across product categories and customer segments. 

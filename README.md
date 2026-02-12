@@ -7,10 +7,27 @@ The objective of this project was to build a fully interactive Sales Dashboard i
 
 ## Key KPIs
 •	 Total Sales by Category</a>
+
 •	 Profit Gained Over Time
+
 •	 Sales by State (Map View)
+
 •	 Top 5 Customers by Profit
+
 •	 Monthly Sales Trend
+
 •	 Customer Count by Year
+
 •	 Dashboard Interaction <a href="https://github.com/the-shreya-khandare/Sales_Analytics_Dashboard/blob/main/SalesDashboard.png">View Dashboard</a>
+
+## Process
+•	Verify data for any missing values and anomalies, and sort out the same.
+
+•	Made sure data is consistent and clean with respect to data type, data format and values used.
+
+•	Created pivot tables according to the question asked.
+
+•	Merge all pivot tables into one dashboard and apply slicer to make dynamic.
+
+## Dashboard
 
